@@ -92,10 +92,10 @@ Price: R$100
 
 [Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/RigEdit-Plus.rbxm?raw=true) | [Orignal](https://roblox.com/library/4486409103)
 
-## Terrain-Mesher-Old
-Price: R$price
+## Terrain Mesher Old
+Price: R$???
 
-[Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/Terrain-Mesher-Old.rbxm?raw=true) | [Orignal](https://roblox.com/library/id)
+[Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/Terrain-Mesher-Old.rbxm?raw=true)
 
 ## Custom Terrain Importer
 Price: R$100
@@ -107,7 +107,7 @@ Price: R$100
 
 [Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/Tool-Grip-Editor.rbxm?raw=true) | [Orignal](https://roblox.com/library/174577307)
 
-## Tree-Generator
+## Tree Generator
 Price: R$100
 
 [Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/Tree-Generator.rbxm?raw=true) | [Orignal](https://roblox.com/library/1256428022)
@@ -128,7 +128,7 @@ Price: R$100
 [Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/Words-of-Encouragement-V2.rbxm?raw=true) | [Orignal](https://roblox.com/library/4588504384)
 
 ## Team Create with Hats
-Price: R$250 (This is optional, you can get a free version on the official github)
+Price: R$250 (This is optional, you can get a free version on the official GitHub)
 
 [Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/tch-v4x.rbxm?raw=true) | [Orignal](https://roblox.com/library/990908723)
 
@@ -136,3 +136,5 @@ Price: R$250 (This is optional, you can get a free version on the official githu
 Price: R$150
 
 [Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/uiDesign-Plus.rbxm?raw=true) | [Orignal](https://roblox.com/library/4474084133)
+
+you save about R$32k and $5 worth of plugins with this repo
