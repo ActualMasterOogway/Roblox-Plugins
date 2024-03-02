@@ -138,3 +138,5 @@ Price: R$150
 [Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/uiDesign-Plus.rbxm?raw=true) | [Orignal](https://roblox.com/library/4474084133)
 
 you save about R$32k and $5 worth of plugins with this repo
+
+Contributors are welcome!
