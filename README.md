@@ -12,6 +12,11 @@ Price: R$8285
 
 [Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/Atmos.rbxm?raw=true) | [Orignal](https://roblox.com/library/2971874773)
 
+## Auto Code
+Price: $7.99
+
+[Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/Auto%20Code.rbxm?raw=true) | [Orignal](https://create.roblox.com/store/asset/10383007164/AutoCode)
+
 ## Auto Scale+
 Price: R$100
 
@@ -48,9 +53,9 @@ Price: R$8285
 [Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/InCommand-versatile-adaptable-command-execution.rbxm?raw=true) | [Orignal](https://roblox.com/library/4987562465)
 
 ## Interface Tools
-Price: R$2200
+Price: $6.99
 
-[Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/Interface%20Tools.rbxm?raw=true) | [Orignal](https://roblox.com/library/4500377880)
+[Download](https://github.com/ActualMasterOogway/Roblox-Plugins/blob/main/Plugins/Interface%20Tools.rbxm?raw=true) | [Orignal](https://create.roblox.com/store/asset/4500377880/Interface-Tools-Pro)
 
 ## Load Character Pro
 Price: R$100
